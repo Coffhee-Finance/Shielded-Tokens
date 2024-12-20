@@ -1,4 +1,4 @@
-Coffhee is an encrypted decentralized exchange for trading encrypted, shielded, and confidential tokens. The core of this protocol are the encrypted tokens and LayerZero general message passing contracts.
+Coffhee is an encrypted decentralized exchange for trading encrypted, shielded, and confidential tokens. The core of this protocol are the shielded tokens and LayerZero general message passing contracts.
 
 The token cUSD.e (Confidential USD.e) is a wrapped ERC20 version of USD.e that encrypts token balances for added privacy.
 
