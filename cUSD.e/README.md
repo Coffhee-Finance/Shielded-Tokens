@@ -7,3 +7,6 @@ Example:
 USD.e is locked inside a contract on BNB Chain (LayerZero Adapter)
 The OFT Adapter then calls for the minting of the cUSD.e on Fhenix (receiving chain)
 For more information on Coffhee go to: https://coffheeswap.gitbook.io/coffheeswap-docs
+
+
+Contract address on Nitrogen testnet 0x1b606988Bf58949d4a892F00dcfF391656ca08C2
