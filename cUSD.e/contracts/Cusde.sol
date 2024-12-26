@@ -6,7 +6,8 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 import "@fhenixprotocol/contracts/FHE.sol";
 import "@layerzerolabs/oft-evm/contracts/OFT.sol";
 
-
+// Example Shielded ERC20 token that is a wrapped version of USD.e stablecoin
+// This is a simple version of a Shieled token deployed on Fhenix testnet Nitrogen
 contract cUsde is ERC20 {
 
     mapping(address => euint32) internal _encBalances;
