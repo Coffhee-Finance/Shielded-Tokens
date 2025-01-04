@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 import "@fhenixprotocol/contracts/FHE.sol";
 import "@layerzerolabs/oft-evm/contracts/OFT.sol";
 
-// Shielded wrapped ERC20 of stUSD.e that allows for trading on Fhenix
+// Shielded wrapped ERC20 of stUSD.e that allows for trading on Coffhee
 contract cstUSDe is ERC20 {
 
     mapping(address => euint32) internal _encBalances;
