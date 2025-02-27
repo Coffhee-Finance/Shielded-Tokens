@@ -6,12 +6,12 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 import "@fhenixprotocol/contracts/FHE.sol";
 import "@layerzerolabs/oft-evm/contracts/OFT.sol";
 
-
-contract cUSDtb is ERC20 {
+// example of wrapped stablecoin
+contract cUSD is ERC20 {
 
     mapping(address => euint32) internal _encBalances;
 
-    constructor(string memory name, string memory symbol) ERC20("Confidential USDtb", "cUSDtb") {
+    constructor(string memory name, string memory symbol) ERC20("Cappuccino USD", "cUSD") {
         address _lzEndpoint;
         address _delegate;
         _mint(msg.sender, 100 * 10 ** uint(decimals()));
