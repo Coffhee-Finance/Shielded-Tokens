@@ -1,5 +1,5 @@
 
-Coffhee's Shielded Tokens provide enhanced privacy for token transactions by obscuring balances and transaction details while maintaining compatibility with the EVM ecosystem. These tokens extend the ERC20 standard, enabling confidential transactions on Coffhee’s encrypted decentralized exchange (DEX).
+Coffhee's Shielded Tokens provide enhanced privacy for token transactions by obscuring balances and transaction details while maintaining compatibility with EVM ecosystems. These tokens extend the ERC20 standard, enabling confidential transactions on Coffhee’s encrypted decentralized exchange (DEX).
 
 Types of Shielded Tokens on Coffhee:
 
