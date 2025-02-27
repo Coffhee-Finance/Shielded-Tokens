@@ -1,9 +1,8 @@
 
-For more information on Coffhee go to:
-https://coffheeswap.gitbook.io/coffheeswap-docs
+Coffhee is an encrypted decentralized exchange for the trading of shielded tokens. 
 
-https://docs.fhenix.zone/docs/category/shielded-erc20-token
+Shielded Tokens on Coffhee are extensions of ERC20 tokens that allow the token owner to obscure transaction balances and details.
 
-Coffhee utilizes both LayerZero and Hyperlane to create shielded versions of erc20 tokens like USD.e and tBTC.
+Coffhee's different Shielded Tokens:
 
-These are shielded Wrapped ERC20s for trading on Coffhee.
+Cappuccino tokens are synthetic encrypted token versions of traditional ERC20s. Using Hyperlane as the bridge.
