@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 import "@fhenixprotocol/contracts/FHE.sol";
 import "@layerzerolabs/oft-evm/contracts/OFT.sol";
 
-// example of wrapped stablecoin
+// example of wrapped encrpypted stablecoin
 contract cUSD is ERC20 {
 
     mapping(address => euint32) internal _encBalances;
