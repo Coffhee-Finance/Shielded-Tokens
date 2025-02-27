@@ -26,8 +26,6 @@ Coffhee's **Shielded Tokens** provide enhanced privacy for token transactions by
 - **Interoperability**: Enables private cross-chain interactions through synthetic and wrapped assets.  
 - **Decentralized Trading**: Users maintain control of their assets without revealing transaction details.  
 
-Coffhee’s shielded token infrastructure aims to bring privacy-first trading to decentralized finance (DeFi), catering to users who value confidentiality in their transactions. 🚀 
-
 
 
 
