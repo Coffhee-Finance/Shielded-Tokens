@@ -11,6 +11,7 @@ Coffhee's **Shielded Tokens** provide enhanced privacy for token transactions by
    - **Description**: Shielded **wrapped ERC20s** minted directly on the Coffhee platform.  
    - **Mechanism**: Users can wrap their ERC20 tokens into a shielded version, ensuring private transactions.  
    - **Purpose**: Provides enhanced privacy for users who want to trade ERC20 assets within the Coffhee ecosystem while keeping balances and transactions confidential.
+     
      Arbitrum Sepolia: 0x1b606988Bf58949d4a892F00dcfF391656ca08C2
 
 3. **Latte Token (Coming Soon!)**  
