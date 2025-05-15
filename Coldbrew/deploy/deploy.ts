@@ -6,9 +6,9 @@ const func: DeployFunction = async function () {
   const { deploy } = hre.deployments;
   const [signer] = await ethers.getSigners();
 
-  const counter = await deploy("WrappingERC20", {
+  const counter = await deploy("ColdBrew Tokens", {
     from: signer.address,
-    args: ["Test Token", "TST"],
+    args: ["ColdBrew", "COLB"],
     log: true,
     skipIfAlreadyDeployed: false,
   });
@@ -18,4 +18,4 @@ const func: DeployFunction = async function () {
 
 export default func;
 func.id = "deploy_counter";
-func.tags = ["WrappingERC20"];
+func.tags = ["ColdbrewToken"];
