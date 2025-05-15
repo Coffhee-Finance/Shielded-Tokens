@@ -4,6 +4,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@fhenixprotocol/contracts/access/Permissioned.sol";
 import "@fhenixprotocol/contracts/FHE.sol";
 
+// Simple encrypted wrapped ERC20 tokens
 contract ColdbrewToken is ERC20, Permissioned {
     mapping(address => euint32) internal _encBalances;
 
